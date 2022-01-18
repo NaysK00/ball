@@ -1,0 +1,7 @@
+Created with Blender 2.76b on 1/MARCH/2016.
+Grid was inspired by Street Fighter IV and Street Fighter V by CAPCOM.
+
+Each mipmap in GridGrey.dds was handmade.
+Before exporting to other formats, the mesh was triangulated with Quad Method: Fixed/Polygon Method: Beauty, but the original .BLEND file is still not triangulated.
+The .dae file was exported with Include UV Textures/Include Material Textures enabled. With the rest of the formats, the default export settings were used.
+When importing into Blender, remember to increase the clipping range since the scenery is large (N > Clip > End > 100000.0).
